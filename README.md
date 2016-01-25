@@ -7,7 +7,7 @@ A code sample to demonstrate how to display and operate a simple rpg-style dialo
 
 ##### How does it work?
 
-The player can navigate through pages of the dialog box by pressing Enter or Gamepad button A (_obviously these input choices are arbitrary_). When the final page is reached, pressing the key to continue once more will close the dialog box.
+The player can navigate through pages of the dialog box by pressing Enter or Gamepad button A (_or whatever keys/buttons you set up_). When the final page is reached, pressing the key to continue once more will close the dialog box.
 
 ##### Cool, but what does it do for me, the developer?
 
