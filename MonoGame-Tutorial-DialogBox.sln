@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame-Tutorial-DialogBox", "MonoGame-Tutorial-DialogBox\MonoGame-Tutorial-DialogBox.csproj", "{C02AB42D-2808-4BD9-A7A0-A41CA72749A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F75330D-7007-440A-A033-124DE18385BC}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C02AB42D-2808-4BD9-A7A0-A41CA72749A9}.Debug|x86.ActiveCfg = Debug|x86
+		{C02AB42D-2808-4BD9-A7A0-A41CA72749A9}.Debug|x86.Build.0 = Debug|x86
+		{C02AB42D-2808-4BD9-A7A0-A41CA72749A9}.Release|x86.ActiveCfg = Release|x86
+		{C02AB42D-2808-4BD9-A7A0-A41CA72749A9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

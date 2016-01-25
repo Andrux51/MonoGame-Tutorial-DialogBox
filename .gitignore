@@ -1,0 +1,16 @@
+[Oo]bj
+[Bb]in
+_ReSharper.*
+*.csproj.user
+*.[Rr]e[Ss]harper.user
+*.DotSettings.user
+*.resharper
+*.suo
+*.sln.cache
+[Rr]elease
+[Dd]ebug
+licenses.licx
+connections.config
+appsettings.config
+#ignore nuget packages (package restore will pull them down on next build)
+packages
